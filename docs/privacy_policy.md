@@ -3,8 +3,6 @@ title: Privacy Policy
 layout: default
 ---
 
-# Privacy Policy
-
 Protecting your privacy is important to us. We hope the following statement will help you understand how NUmero's products deals with the personal identifiable information ('PII') you may occasionally provide to us via Internet (the'Google Play'Platform).
 
 Generally, we do not collect any PII from you when you download our Android applications. To be specific, we do not require the consumers to get registered before downloading the application, nor do we keep track of the consumers' visits of our application, we even don't have a Server to store such PII.
