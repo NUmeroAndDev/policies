@@ -1,8 +1,7 @@
 ---
+title: Privacy Policy
 layout: default
 ---
-
-# Privacy Policy
 
 Protecting your privacy is important to us. We hope the following statement will help you understand how NUmero's products deals with the personal identifiable information ('PII') you may occasionally provide to us via Internet (the'Google Play'Platform).
 
