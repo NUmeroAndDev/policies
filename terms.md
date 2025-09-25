@@ -27,14 +27,14 @@ In using the Service, the User shall not engage in any of the following acts:
 2. The Provider shall not be liable for any damages incurred by the User in connection with the use of the Service, except in cases of willful misconduct or gross negligence on the part of the Provider.
 
 ## Article 4 (Suspension and Interruption of the Service)
-1. The Provider may suspend or interrupt the provision of all or part of the Service without prior notice to the User if it determines that any of the following situations apply:
+1.The Provider may suspend or interrupt the provision of all or part of the Service without prior notice to the User if it determines that any of the following situations apply:
 
 - When performing maintenance, inspection, or updates of the systems related to the Service.
 - When provision of the Service becomes difficult due to force majeure, such as earthquakes, lightning, fires, power outages, or other natural disasters.
 - When provision of the Service becomes difficult due to specification changes on platforms (App Store and Google Play Store).
 - In any other case where the Provider deems the provision of the Service to be difficult.
 
-2. The Provider shall not be liable for any damages incurred by the User or third parties due to the suspension or interruption of the Service as described in the preceding paragraph, except in cases of willful misconduct or gross negligence on the part of the Provider.
+2.The Provider shall not be liable for any damages incurred by the User or third parties due to the suspension or interruption of the Service as described in the preceding paragraph, except in cases of willful misconduct or gross negligence on the part of the Provider.
 
 ## Article 5 (Handling of User Information)
 1. The handling of User information by the Provider shall be in accordance with the Provider's separately established Privacy Policy.
