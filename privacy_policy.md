@@ -19,4 +19,4 @@ In above situation, we guarantee that your PII will only be used for contacting 
 It should be noted that whether or not to send us your feedback or bug report is a completely voluntary initiative upon your own decision. If you have concern about your PII being misused, or if you want further information about our privacy policy and what it means, please feel free to email us at <a href="mailto:numero.dev.and@gmail.com">numero.dev.and@gmail.com</a>, we will endeavor to provide clear answers to your questions in a timely manner.
 
 
-Last modification: Sep 22, 2018
+Last modification: Sep 25, 2025
